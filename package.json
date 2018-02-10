@@ -1,6 +1,6 @@
 {
   "name": "base32-encoding",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Encode / decode base32. Supports Buffers, strings, custom alphabets, abstract-encoding compliant",
   "main": "index.js",
   "dependencies": {},
