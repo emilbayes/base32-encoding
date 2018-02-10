@@ -1,0 +1,31 @@
+{
+  "name": "base32-encoding",
+  "version": "0.0.0",
+  "description": "Encode / decode base32. Supports Buffers, strings, custom alphabets, abstract-encoding compliant",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/base32-encoding.git"
+  },
+  "keywords": [
+    "base32",
+    "base256",
+    "abstract",
+    "encoding",
+    "decoding",
+    "buffer",
+    "string",
+    "parse"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/base32-encoding/issues"
+  },
+  "homepage": "https://github.com/emilbayes/base32-encoding#readme"
+}
